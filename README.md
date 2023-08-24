@@ -1,4 +1,4 @@
-![62](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/5c319415-5dc8-4fc6-8b69-167635f8c7a3)
+
 # JAVASCRIPT-NOTES-HANDWRITTEN
 ![1](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/7aaab00f-b3d9-4294-9add-71e124c7d0dd)
 ![2](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/6057de7b-c734-43a8-a27a-859b9b94c24d)
@@ -61,3 +61,4 @@
 ![59](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/060745fb-56a2-45fa-8b08-3fdb056e3c18)
 ![60](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/eaea5053-f9c3-4ffa-9e16-26df8936d44b)
 ![61](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/6b82a4e0-fb26-4398-8818-bfebf6b93045)
+![62](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/5c319415-5dc8-4fc6-8b69-167635f8c7a3)
