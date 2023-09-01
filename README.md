@@ -76,3 +76,4 @@
 ![74](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/ea4813b8-75e9-405a-ae4f-0e349cbb4914)
 ![75](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/8afd06fe-601e-4e56-9309-3b2c36211bd3)
 ![76](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/b5f969f6-de1e-4e3b-9931-a7a372afdd4b)
+![77](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/5c14b42a-e180-4c24-8aef-68a4b9790829)
