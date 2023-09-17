@@ -1,4 +1,4 @@
-![101](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/3c4d35a3-a10d-4e90-8f90-d8e4421f8408)
+
 # JAVASCRIPT-NOTES-HANDWRITTEN
 ![1](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/7aaab00f-b3d9-4294-9add-71e124c7d0dd)
 ![2](https://github.com/atultembhekar/Javascript-Notes-Handwritten/assets/127327717/6057de7b-c734-43a8-a27a-859b9b94c24d)
